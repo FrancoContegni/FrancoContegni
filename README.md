@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrancoContegni
 - 👀 I’m interested in blockchain and web3
 - 🌱 I’m looking for an entry level job on web3
-- 📫 How to reach me ...
+
 
 <!---
 FrancoContegni/FrancoContegni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
