@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancoContegni
 - 👀 I’m interested in blockchain and web3
-- 🌱 I’m looking for an entry level job on web3
+
 
 
 <!---
