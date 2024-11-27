@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrancoContegni
+- 👋 Hi, I’m @PerdedorTrader on X
 - 👀 I’m interested in blockchain and web3
 
 
