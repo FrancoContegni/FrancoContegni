@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @PerdedorTrader on X
-- 👀 I’m interested in blockchain and web3
-
-
+Degen life
 
 <!---
 FrancoContegni/FrancoContegni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
